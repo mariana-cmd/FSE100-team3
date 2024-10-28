@@ -7,7 +7,7 @@ An autonomous lego vehicle programmed to transport a person in a wheelchair from
 Project Spyn is about building and programming an autonomous vehicle that aims to transport wheelchaired individuals from a starting location to an end location.
 Our project is named ZoomMe. Our vehicle, which we made with legos, is powered by sensors (color, ultrasonic, touch) and a brick where we will send the programming to. 
 
-**Installation **
+**Installation**
 1. Install Matlab software
 2. Install EV3 Toolbox folder
     - In order to properly install the toolbox in Matlab, unzip and put the unzipped Toolbox folder in C:\Program Files\MATLAB\R(year)\toolbox
